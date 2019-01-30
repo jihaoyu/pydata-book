@@ -7,7 +7,6 @@ dependencies:
     - ipykernel
     - scipy
     - scikit-learn
-    - tensorflow
     - matplotlib
     - seaborn
     - pandas
